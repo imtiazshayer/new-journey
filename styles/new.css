@@ -26,16 +26,31 @@ color: white;
  color: #272727;
 font-family: Lato;
 font-size: 70px;
-
-
 }
-.pro-pic{
-    width: 450px;
-    height: 650px;
+.shei-pic{
 display: flex;
 justify-content: space-around;
-margin-right: 3px;
-margin-left: 10px;
+align-items: center;
+border-right: 240px;
+text-align: right;
+}
 
 
+.about{
+padding: 125px;
+margin: 50px;
+}
+.section-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+   
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
 }
