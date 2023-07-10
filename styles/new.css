@@ -1,0 +1,29 @@
+nav{
+margin: 200px;
+padding: 20px;
+width: 600px;
+height: 220px;
+line-height: normal;
+}
+.banner{
+
+    background-color: rgba(229, 84, 115, 0.10);
+}
+
+.headers{
+
+    color: #272727;
+font-size: 50px;
+font-style: normal;
+display: flex;
+width: 450px;
+
+}
+.boka{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    
+
+}
