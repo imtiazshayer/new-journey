@@ -54,3 +54,53 @@ margin: 50px;
     font-weight: 400;
     line-height: 30px;
 }
+.jotil-pic{
+display: flex;
+
+}
+.flowers{display: flex
+
+}
+.box-title{
+display: flex;
+justify-content: space-around;
+border: 1px solid black ;
+}
+
+.baap{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+margin: 10px;
+}
+.beauty{
+display: flex;
+width: 300px;
+align-items: center;
+justify-content: space-around;
+}
+.number-one{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+}
+.number-two{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.number-three{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+   
+}
