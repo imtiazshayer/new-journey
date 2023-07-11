@@ -110,8 +110,8 @@ background: rgba(71, 125, 17, 0.15);
 }
 
 .bold-title{
- width: 1922px;
-height: 620px;
+ width: 1300px;
+height: 500px;
  border-radius: 8px;
 background: rgba(229, 84, 115, 0.05);
 display: flex;
@@ -132,5 +132,28 @@ height: 420px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+}
+
+.fourth-step{
+margin: 50px;
+padding: 180px;
+align-items: center;
+width: 1500px;
+justify-content: space-around;
 
 }
+.insta{
+    color: #272727;
+    font-size: 40px;
+    align-items: center;
+margin-top: 0px;
+}
+.fl-pic{
+justify-content: space-between;
+width: 342px;
+height: 396px;
+display: flex;
+}
+
+
+
