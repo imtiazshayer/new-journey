@@ -133,20 +133,27 @@ height: 420px;
     font-weight: 800;
     line-height: normal;
 }
+.pic-and-content{
+    margin: 50px;
+    padding: 10px;
+
+
+}
 
 .fourth-step{
-margin: 50px;
+margin: 100px;
 padding: 180px;
 align-items: center;
-width: 1500px;
+width: 1900px;
 justify-content: space-around;
 
 }
 .insta{
     color: #272727;
     font-size: 40px;
-    align-items: center;
+   
 margin-top: 0px;
+
 }
 .fl-pic{
 justify-content: space-between;
@@ -154,6 +161,71 @@ width: 342px;
 height: 396px;
 display: flex;
 }
+.email{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+background: #FFF;
+ 
+
+}
+.six-setup{
+background-image: url(../Rectangle\ 9.png);
+width: 1440px;
+height: 449px;
+align-items: center;
+}
+.gett{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.shayer{
+    color: #E55473;
+    
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: center;
+
+}
+.footers{
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+
+}
+.last-para{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.finish{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 
 
-
+}
