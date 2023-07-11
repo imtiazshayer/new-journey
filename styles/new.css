@@ -14,6 +14,10 @@ align-items: center;
 .button-colour{
 background-color: brown;
 color: white;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
 
 }
 
@@ -83,6 +87,7 @@ display: flex;
 width: 300px;
 align-items: center;
 justify-content: space-around;
+size: 300px 200px;
 }
 .number-one{
     width: 464px;
@@ -102,5 +107,23 @@ justify-content: space-around;
     height: 538px;
     border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
-   
 }
+
+.bold-title{
+ width: 1922px;
+height: 620px;
+ border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+align-items: center;
+padding: 150px;
+
+}
+.joss-pic{
+
+    width: 318px;
+height: 420px;
+
+
+}
+
